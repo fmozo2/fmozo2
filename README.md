@@ -1,10 +1,5 @@
 ### Mi primera página en github 😊
-<html>
-  <head></head>
-  <body>
-    <p style="color:red">Comenzamos a picar...</p>
-  </body>
-</html>
+
 <!--
 **fmozo2/fmozo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
