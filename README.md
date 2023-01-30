@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 Siguiendo los cursos de MoureDev
+<hr>
 <a href="https://youtu.be/Kp4Mvapo5kc"><img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
